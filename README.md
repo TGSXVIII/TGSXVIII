@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on a bunch of different projects like my own PC 2D & 3D game in unity,<br>making my own interactable portfolio website<br>I'm looking to collaborate on pc/console games, apps and mobile games<br>I'm looking for help with learning better and faster ways of progamming projects and learn the best practices for the different languages<br>I'm currently in school learning about Full stack development where we have mostly focused on C# but i have been learning different languages and frameworks on my own<br>Ask me about my hobbies, idea for games, apps and other types of projects<br> 
+i'm currently working on a bunch of different projects like my own 2D & 3D game in unity,<br>making my own interactable portfolio website<br>I'm looking to collaborate on pc/console games, apps and mobile games<br>I'm looking for help with learning better and faster ways of progamming projects and learn the best practices for the different languages<br>I'm currently in school learning about Full stack development where we have mostly focused on C# but i have been learning different languages and frameworks on my own<br>Ask me about my hobbies, idea for games, apps and other types of projects<br> 
 
 
 # 💻 Tech Stack:
